@@ -1,2 +1,2 @@
-# NersesAslanyan.github.io
+# Нерсес Асланян
 Мой первый сайт
